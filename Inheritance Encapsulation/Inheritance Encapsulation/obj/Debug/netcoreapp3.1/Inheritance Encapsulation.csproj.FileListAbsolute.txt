@@ -1,0 +1,14 @@
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\bin\Debug\netcoreapp3.1\Inheritance Encapsulation.exe
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\bin\Debug\netcoreapp3.1\Inheritance Encapsulation.deps.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\bin\Debug\netcoreapp3.1\Inheritance Encapsulation.runtimeconfig.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\bin\Debug\netcoreapp3.1\Inheritance Encapsulation.runtimeconfig.dev.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\bin\Debug\netcoreapp3.1\Inheritance Encapsulation.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\bin\Debug\netcoreapp3.1\Inheritance Encapsulation.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\obj\Debug\netcoreapp3.1\Inheritance Encapsulation.csproj.AssemblyReference.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\obj\Debug\netcoreapp3.1\Inheritance Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\obj\Debug\netcoreapp3.1\Inheritance Encapsulation.AssemblyInfoInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\obj\Debug\netcoreapp3.1\Inheritance Encapsulation.AssemblyInfo.cs
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\obj\Debug\netcoreapp3.1\Inheritance Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\obj\Debug\netcoreapp3.1\Inheritance Encapsulation.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\obj\Debug\netcoreapp3.1\Inheritance Encapsulation.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Inheritance- AccessModifiers-Encapsulation\Inheritance Encapsulation\Inheritance Encapsulation\obj\Debug\netcoreapp3.1\Inheritance Encapsulation.genruntimeconfig.cache
